@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <install type="template" version="1.5">
-  <name>epiceram_1_2</name>
+  <name>epiceram 1_3</name>
   <creationDate>2011-11-10</creationDate>
   <version>1.1</version>
   <author>William Rosner</author>
